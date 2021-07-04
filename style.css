@@ -69,6 +69,15 @@ h2{
 footer {
     text-align: center;
     padding: 3px;
-  background-color: DarkSalmon;
-  color: white;
+  background-color: white;
+  color: black;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(white blue);
+    color: blue;
+    font-weight: 400;
+    padding: 10px 40px;
+    border-radius: 5px;
+
 }
